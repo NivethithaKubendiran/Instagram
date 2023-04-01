@@ -1,0 +1,124 @@
+body{
+    background-image: url('https://media.gcflearnfree.org/content/633d944b3823fb02e84dce55_10_05_2022/Screen%20Shot%202022-10-10%20at%202.28.19%20PM.png');
+    background-repeat: no-repeat;
+    background-position: 22% -3%;
+    background-size: 520px 700px;
+}
+.main-box{
+    padding:0px;
+    padding-left: 30px;
+    padding-right: 60px;
+    padding-bottom: 50px;
+    border: 1px solid rgb(221, 220, 220);
+    width: 250px;
+    height: 350px;
+    background-color: rgba((var(--d87,255,255,)));
+}
+.insta{
+    position: absolute;
+    width: 65%;
+    height: 15%;
+    top: 6%;
+    left: 18%;
+}
+body{
+    position: absolute;
+   top: 6%;
+   left: 50%;
+   background-color: rgba((var(--b3f,250,250,)));
+}
+button{
+    position: absolute;
+    padding: 0px;
+    border-radius: 5px;
+    border: white;
+    height: 7%;
+    left: 32px;
+    cursor: pointer;
+    color: whitesmoke;
+    background-color: rgb(8,170,245);
+    font-family: latha;
+    font-style: bold;
+    font-size: 15px;
+    width: 80%;
+}
+input{
+    padding: 10px;
+    border: 2px solid rgb(221,220,220);
+    position: relative;
+    width: 150%;
+    height: 14px;
+    background:#fafafa;
+    font-size: 12px;
+
+}
+h4{
+    font-family: calibri light;
+    position: relative;
+    opacity: 50%;
+
+}
+a{
+    text-decoration: none;
+    font-family: calibri light;
+}
+img{
+    position: absolute;
+    width: 15px;
+    height: 16px;
+    top: 67%;
+    left: 25%;
+}
+.loginfb{
+    font-weight: 550;
+    font-size: 14px;
+    color: #385185;
+    font-family: 'Roboto', sans-serif;
+}
+.resetpwd{
+    position: absolute;
+    left: 35%;
+    font-size: 14px;
+    color: #003569;
+}
+.signup{
+    padding: 0px;
+    border: 2px solid rgb(221, 220, 220);
+    padding-left: 30px;
+    padding-right: 60px;
+    padding-bottom: 11px;
+    background: #fafafa;
+    top: 95%;
+    width: 250px;
+    text-align: right;
+    font-family: 'roboto', sans-serif;
+    font-size: 15px;
+    color: #262626;
+}
+.singup a{
+    color: #3897f0;
+    font-weight: bold;
+    font-size: 16px;
+  
+}
+.final{
+    position: absolute;
+    top:98%;
+    left: 40%;
+    font-family: 'roboto',sans-serif;
+    font-size: 15.5px;
+}
+.apple{
+    position:absolute;
+    top:107%;
+    left: 5%;
+    width: 150px;
+    height: 150px;
+}
+.google{
+    position: absolute;
+    top: 112%;
+    left: 50%;
+    width: 200px;
+    height: 100px;
+}
